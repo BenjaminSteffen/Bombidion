@@ -1,0 +1,4 @@
+polars-random~=0.4.0
+polars~=1.42.1
+geotiff~=0.2.10
+numpy~=2.5.0
